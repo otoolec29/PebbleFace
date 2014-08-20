@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "otoolec",
+    "longName": "TimingClock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TimingClock_blank.png",
+                "name": "TIMING_CLOCK_BLANK",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "TimingClock",
+    "uuid": "280c9715-8eb6-406c-92cd-6a967d66ccea",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
