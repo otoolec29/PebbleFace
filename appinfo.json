@@ -12,6 +12,11 @@
                 "file": "images/TimingClock_blank.png",
                 "name": "TIMING_CLOCK_BLANK",
                 "type": "png"
+            },
+            {
+                "file": "images/TimingClock.png",
+                "name": "TIMING_CLOCK_EXAMPLE",
+                "type": "png"
             }
         ]
     },
@@ -20,6 +25,6 @@
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
